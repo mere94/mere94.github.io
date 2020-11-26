@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://littlesnack.xyz/post/</loc>
+    <lastmod>2020-11-26T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlesnack.xyz/</loc>
+    <lastmod>2020-11-26T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlesnack.xyz/tags/second/</loc>
+    <lastmod>2020-11-26T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlesnack.xyz/post/secondo-post/</loc>
+    <lastmod>2020-11-26T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://littlesnack.xyz/tags/</loc>
+    <lastmod>2020-11-26T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://littlesnack.xyz/tags/blog/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://littlesnack.xyz/post/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://littlesnack.xyz/post/first/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlesnack.xyz/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,11 +49,6 @@
   
   <url>
     <loc>https://littlesnack.xyz/tags/social/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://littlesnack.xyz/tags/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   

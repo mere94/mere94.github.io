@@ -6,7 +6,16 @@
     <description>Recent content in Tags on LittleSnack</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://littlesnack.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2020 19:00:00 +0000</lastBuildDate><atom:link href="https://littlesnack.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>second</title>
+      <link>https://littlesnack.xyz/tags/second/</link>
+      <pubDate>Thu, 26 Nov 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://littlesnack.xyz/tags/second/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blog</title>
       <link>https://littlesnack.xyz/tags/blog/</link>
