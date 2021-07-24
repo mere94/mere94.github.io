@@ -16,33 +16,5 @@
       <description>Prova testo</description>
     </item>
     
-    <item>
-      <title>Il primo Snack</title>
-      <link>https://littlesnack.xyz/post/example/first/</link>
-      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/post/example/first/</guid>
-      <description>Ciao a tutti, sono pronto a scrivere.
-Questo è il mio primo articolo.</description>
-    </item>
-    
-    <item>
-      <title>Soho Theme</title>
-      <link>https://littlesnack.xyz/post/example/soho/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/post/example/soho/</guid>
-      <description>Soho is a minimalist two-column hugo theme based on Hyde and inspired by the success of Flex.</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://littlesnack.xyz/post/example/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/post/example/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
