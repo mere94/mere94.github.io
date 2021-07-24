@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LittleSnack</title>
+    <link>https://littlesnack.xyz/</link>
+    <description>Recent content on LittleSnack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Sep 2021 14:00:00 +0000</lastBuildDate><atom:link href="https://littlesnack.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ilaria &amp; Luca Wedding</title>
+      <link>https://littlesnack.xyz/post/il-nostro-matrimonio/</link>
+      <pubDate>Sat, 18 Sep 2021 14:00:00 +0000</pubDate>
+      
+      <guid>https://littlesnack.xyz/post/il-nostro-matrimonio/</guid>
+      <description>Abbiamo già molti oggetti nella nostra piccola ma dolce dimora. In questo periodo viaggiare non è molto semplice, se volete farci un pensiero, un regalo per il nostro salvadanaio sarebbe molto gradito, al fine di poter viaggiare appena possibile verso terre lontane.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://littlesnack.xyz/contact/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://littlesnack.xyz/contact/</guid>
+      <description>Rimani in contatto con NOI</description>
+    </item>
+    
+    <item>
+      <title>CHI SONO</title>
+      <link>https://littlesnack.xyz/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://littlesnack.xyz/about/</guid>
+      <description>Ciao, sono Luca Merendino, da qui il nome di questo sito &amp;ldquo;LittleSnack&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
