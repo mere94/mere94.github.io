@@ -341,7 +341,7 @@ hr.button-line {
 img.mini-post {
     max-height: 8rem;
     margin-top: 12%;
-    margin-right: 5%;
+    max-width: 75%;
     margin-left: 15%;
 }
 
