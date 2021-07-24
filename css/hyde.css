@@ -140,7 +140,7 @@ footer {
     margin-left: 20rem;
     margin-right: 2rem;
     margin-bottom: -40px;
-    min-height: 100%;
+    max-height: 100%;
   }
 }
 
