@@ -35,15 +35,6 @@
     </item>
     
     <item>
-      <title>second</title>
-      <link>https://littlesnack.xyz/tags/second/</link>
-      <pubDate>Thu, 26 Nov 2020 19:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/tags/second/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>blog</title>
       <link>https://littlesnack.xyz/tags/blog/</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
@@ -89,42 +80,6 @@
     </item>
     
     <item>
-      <title>css</title>
-      <link>https://littlesnack.xyz/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://littlesnack.xyz/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://littlesnack.xyz/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://littlesnack.xyz/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>privacy</title>
       <link>https://littlesnack.xyz/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
@@ -139,24 +94,6 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://littlesnack.xyz/tags/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text</title>
-      <link>https://littlesnack.xyz/tags/text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/tags/text/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emoji</title>
-      <link>https://littlesnack.xyz/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://littlesnack.xyz/tags/emoji/</guid>
       <description></description>
     </item>
     
